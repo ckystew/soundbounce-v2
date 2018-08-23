@@ -21,13 +21,13 @@ export default [
 		emoji: ':loud_sound:', name: 'Crank it!', animation: 'shake'
 	},
 	{
-		emoji: ':star_struck:', name: 'Star Struck', animation: 'wobble'
-	},
-	{
 		emoji: ':sleeping:', name: 'Boring', animation: 'vibrate'
 	},
 	{
 		emoji: ':grimacing:', name: 'Eeeek', animation: 'vibrate'
+	},
+	{
+		emoji: ':guitar:', name: 'Frets of fire', animation: 'Wobble'
 	},
 	{
 		emoji: ':cry:', name: 'Crying', animation: 'wobble'
@@ -37,9 +37,6 @@ export default [
 	},
 	{
 		emoji: ':sunglasses:', name: 'Cool', animation: 'spin'
-	},
-	{
-		emoji: ':exploding_head:', name: 'Exploding head', animation: 'bounce'
 	},
 	{
 		emoji: ':fire:', name: 'Fire', animation: 'wobble'
